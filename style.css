@@ -1,0 +1,68 @@
+* {
+  font-size: medium;
+}
+.ip {
+  width: 150px;
+  height: 20px;
+  background-color: black;
+  color: white;
+}
+.r {
+  width: 35px;
+  height: 25px;
+  background-color: rgb(244, 6, 6);
+  border-radius: 5px;
+  border-color: white;
+  color: white;
+}
+.cl {
+  width: 75px;
+  height: 25px;
+  background-color: rgb(244, 6, 6);
+  border-radius: 5px;
+  border-color: white;
+  color: white;
+}
+.c {
+  width: 35px;
+  height: 25px;
+  background-color: rgb(244, 6, 6);
+  border-radius: 5px;
+  border-color: white;
+  color: white;
+}
+.b1 {
+  width: 35px;
+  border-radius: 5px;
+  border-color: rgb(218, 218, 218);
+  color: rgb(255, 6, 6);
+  background-color: white;
+}
+.b2 {
+  width: 35px;
+  border-radius: 5px;
+  border-color: rgb(218, 218, 218);
+  background-color: white;
+  color: rgb(244, 6, 6);
+}
+.bm {
+  width: 35px;
+  border-radius: 5px;
+  border-color: rgb(218, 218, 218);
+  background-color: white;
+  color: rgb(244, 6, 6);
+}
+.bd {
+  width: 35px;
+  border-radius: 5px;
+  border-color: rgb(218, 218, 218);
+  background-color: white;
+  color: rgb(255, 6, 6);
+}
+table {
+  background-color: black;
+  border-radius: 10px;
+  padding: 5px;
+  border: 2px solid gray;
+  margin-top: 50px;
+}
